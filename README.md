@@ -16,3 +16,4 @@ This project builds an AI-powered recommendation system for e-commerce products 
 5. CI/CD Integration
 6. Kubernetes Deployment
 7. Monitoring & Analytics
+🚀 Author: Viruthebrave | GitHub Actions & DevOps Enthusiast
