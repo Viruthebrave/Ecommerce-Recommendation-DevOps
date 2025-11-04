@@ -1,4 +1,4 @@
-# Ecommerce-Recommendation-DevOps# 🛍️ E-Commerce Recommendation Engine with DevOps
+E-Commerce Recommendation Engine with DevOps
 
 ## Overview
 This project builds an AI-powered recommendation system for e-commerce products and deploys it using a complete DevOps pipeline — including Docker, CI/CD (GitHub Actions), and Kubernetes.
